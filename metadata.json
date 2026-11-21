@@ -1,0 +1,12 @@
+{
+    "license": "GPL-3.0-only",
+    "url": "https://github.com/corradoproietti/cinnawm_albert_switcher",
+    "readme_url": "https://github.com/corradoproietti/cinnawm_albert_switcher/blob/main/README.md",
+    "name": "CinnaWM Switcher",
+    "description": "Search and switch Cinnamon windows, Manual Tab Groups, Scratchpad, and PiP via CinnaWM",
+    "authors": ["@corradoproietti"],
+    "maintainers": ["@corradoproietti"],
+    "binary_dependencies": [],
+    "runtime_dependencies": [],
+    "plugin_dependencies": []
+}

@@ -1,0 +1,12 @@
+build/
+dist/
+__pycache__/
+*.so
+*.o
+*.moc
+*.pyc
+*.pyo
+*.swp
+*.swo
+*~
+.DS_Store
